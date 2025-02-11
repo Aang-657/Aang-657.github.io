@@ -1,0 +1,64 @@
+.main-box {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: ;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align:;
+    
+  }
+  
+
+body {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif
+    margin: 0;
+    padding: 0;
+    background-image: url('https://png.pngtree.com/background/20230614/original/pngtree-sky-frame-anime-picture-image_3510121.jpg');
+    background-size: cover;
+  }
+
+  article {
+    border: 4px solid pink; /* Garis tepi */
+    padding: 20px; /* Ruang dalam box */
+    margin: 20px auto; /* Jarak antar box dan posisi tengah */
+    border-radius: 10px; /* Sudut melengkung */
+    background-color: none; /* Latar belakang semi transparan */
+    max-width: 800px; /* Batas lebar agar tidak terlalu besar */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); /* Efek bayangan */
+}
+
+  header, footer {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+    list-style-type: none;
+  }
+  
+  main, aside {
+    text-align: center;
+    padding: 20px;
+  }
+
+#gambar-wa{
+    width: 50px;
+    height: auto;
+} 
+
+#gambar-fb{
+    width: 50px;
+    height: auto;
+}

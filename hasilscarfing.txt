@@ -1,0 +1,32 @@
+Hasil Scraping Website
+==================================================
+Heading Utama: Tidak ditemukan
+
+Semua Heading (H1-H6):
+H3: Tentang Saya
+H3: Profil Diri:
+H3: Pengalaman
+H3: Keterampilan
+H3: Hubungi Saya
+
+Paragraf dalam Tentang:
+Paragraf 1: 
+          Halo, saya adalah Gilang Maulana. Saya merupakan mahasiswa Teknik Informatika di Politeknik Negeri Bandung, angkatan 2024.
+        
+Paragraf 2: 
+Profil Diri:
+
+Nama    : Gialng Maulana
+Kelas   : D4 1B
+NIM     : 241524044
+Domisili: Bandung
+
+
+
+Link Navigasi:
+Link: #tentang - Tentang
+Link: #pengalaman - Pengalaman
+Link: #kontak - Kontak
+Link: #data scrafing - Data scrafing
+
+Input Form pada Footer:

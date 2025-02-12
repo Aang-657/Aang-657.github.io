@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # URL website yang telah kamu buat (jika dijalankan secara lokal, gunakan localhost, misalnya http://localhost:8000/index.html)
-url = 'http://localhost:8000/index.html'
+url = 'https://aang-657.github.io/gilang.github.io/'
 
 # Mengambil konten halaman menggunakan requests
 response = requests.get(url)
